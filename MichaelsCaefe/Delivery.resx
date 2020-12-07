@@ -58,10 +58,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing.Common" name="System.Drawing.Common, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
-  <data name="loginLogo.Image" type="System.Drawing.Bitmap, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="Delivery_logo_pb.Image" type="System.Drawing.Bitmap, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgoAAAFyCAYAAACUWPJkAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1
-        MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAAMh0AADIdAbJS7ngAAP+WSURBVHhe7J0HvCVFlf/fBIZh
+        MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAAMiEAADIhAbIZUFEAAP+WSURBVHhe7J0HvCVFlf/fBIZh
         MjPDzDAMUYJK2FUYmIEBJAeJEkQxJ8yCf+OaMOsqSjBnV1ERzCKirjnHNaxh3XVddc1xV13z+59v8X6X
         886r6tv3vXv73jfT5/P5fbq6uru6Up/z61PV1WN///d/Pwm3uc1txm5961uP7b///mMHH3xw2u63335j
         e+21V9re6la32t7iDrLt/W55y1teZnilhd9keKnhWXbtBWvXrr3Fpk2bxv7u7/4uXWPncF0K77vvvmO7
@@ -1328,7 +1328,7 @@
         rI0woU8WPHufox3/H0+u4ZyjTXunAAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="button4.Image" type="System.Drawing.Bitmap, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="Delivery_nav_pb.Image" type="System.Drawing.Bitmap, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACUAAAAcCAYAAADm63ZmAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAX
         EQAAFxEByibzPwAAAQZJREFUWEfNllENhDAQRNcDDtCACv4xgQYU4AAbGCDBBi4w0ONNrh9c+n2zTYZs
